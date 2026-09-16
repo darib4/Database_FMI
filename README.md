@@ -7,9 +7,9 @@ This repository contains solved exercises from the Database course at FMI.
 
 The exercises cover both database design and SQL practice, including the creation of E/R models, transformation of E/R diagrams into relational schemas, and implementation of relational databases using SQL.
 
-## Topics Covered
+## 📚 Topics Covered
 
-### Database Modeling
+### 🧩 Database Modeling
 - E/R modeling
 - Entities, attributes, and relationships
 - Cardinalities
@@ -17,7 +17,7 @@ The exercises cover both database design and SQL practice, including the creatio
 - Primary and foreign keys
 - Transformation of E/R models into relational schemas
 
-### SQL
+### 💻 SQL
 - DDL (Data Definition Language) – creating and modifying database structures using `CREATE TABLE`, `ALTER TABLE`, constraints, primary keys, and foreign keys
 - DML (Data Manipulation Language) – inserting, updating, and deleting data using `INSERT`, `UPDATE`, and `DELETE`
 - DQL (Data Query Language) – retrieving data using `SELECT`
@@ -27,7 +27,7 @@ The exercises cover both database design and SQL practice, including the creatio
 - `GROUP BY` and `HAVING`
 - Referential integrity and constraints
 
-## Repository Structure
+## 📁 Repository Structure
 
 - `Database-Modeling/` – E/R diagrams and relational schema exercises
 - `SQL-Practice/` – SQL exercises covering database definition, data manipulation, and querying
