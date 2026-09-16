@@ -4,7 +4,7 @@ This folder contains the exported entity-relationship diagram for a travel-agenc
 
 ## PDF
 
-- [Travel-Agency.pdf](Travel-Agency.pdf) - exported ER diagram
+- `[Travel-Agency.pdf]/` - exported ER diagram
 
 ## What the Diagram Documents
 
